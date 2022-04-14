@@ -1,7 +1,7 @@
 Prerequisets:
 - Run PowerShell as an Administrator
 - VMware® Workstation 16 Pro, Version: 16.2.3 build-19376536
-- Modify network IPs/subnet based on your desires 
+- Modify network IPs/subnet based on your desires in (Vagrantfile)
 
 Please be in Vagrant folder and execute the below commands in PowerShell:
 
